@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
+            Image(systemName: "C3 힘내자")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
